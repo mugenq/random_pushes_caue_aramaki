@@ -22,6 +22,24 @@ A rejected candidate is not automatically a weak candidate. A company may have t
 
 Normally that information and effort are lost, and the candidate starts over at another employer. A referral network could carry a **positive, permissioned recommendation** forward.
 
+## Author clarification: the problem is wasted recruiting effort
+
+In a follow-up on 19 October 2026, the author emphasized three motivating observations:
+
+- Employers dislike receiving large volumes of poorly targeted applications.
+- Employers also spend staff salary on repetitive application reviews and interview stages, even when another employer has already evaluated the same candidate.
+- Candidates should be able to interview with more companies; a shared referral path should not depend on one particular interview method or artificially limit their options.
+
+The motivation is therefore **reducing duplicated recruitment effort and connecting hiring information**, rather than inventing a new reason to reject or transfer applicants.
+
+The author also explicitly noted that **the initial model does not yet provide a defined benefit or revenue mechanism for Service C, nor a specified direct payoff for Companies A and D**. Those are unsolved design questions, not assumptions that can be treated as already settled.
+
+### Economic interpretation (editorial, not the author's established claim)
+
+Company D might benefit from an introduction to someone whom A has already screened, potentially avoiding part of the initial screening effort; whether this actually saves time depends on the quality and relevance of the referral. Company A's benefit is less direct unless the network offers reciprocal candidate referrals or some other reason to participate. Company C could operate as shared infrastructure without a monetization plan during validation. None of these possibilities constitutes a demonstrated business model.
+
+Importantly, the network need not replace each employer's independent hiring judgment or permit unconsented transfer of interview materials.
+
 ## Possible workflow (editorial elaboration)
 
 1. Company A completes its normal hiring decision.
