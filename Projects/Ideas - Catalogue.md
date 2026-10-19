@@ -19,6 +19,7 @@ These entries preserve the author's philosophical proposals, design concepts and
 
 - [A catalogue of problems and non-problems](Ideas%20-%20Problem%20Catalogue.md) — platform/marketplace design.
 - [Choosing the simplest useful tool](Ideas%20-%20Tool%20Selection.md) — practical engineering philosophy.
+- [Rejected candidate referral network (Second Door)](Ideas%20-%20Rejected%20Candidate%20Referral%20Network.md) — consent-based employer-to-employer referrals after a job rejection.
 
 ## Fiction and games
 
