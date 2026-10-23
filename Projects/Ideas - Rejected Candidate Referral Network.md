@@ -84,3 +84,65 @@ Only add automated matching or shared interview evidence if those simpler steps 
 5. How can the service prevent employers from shifting recruiting costs onto candidates or monetizing their personal data?
 
 **Core authorial concept:** employer-to-employer referral of rejected applicants through a third-party service. All workflows, risks, measurements and commercial hypotheses beyond that core premise are editorial elaborations intended for further testing.
+
+## Business-model expansion: portable hiring progress (23 October 2026)
+
+> **Provenance:** Expansion requested by the author. The author's additional goals are portable progress across multiple employers, less time spent optimizing CVs, more time exploring offices and workplaces, and investigating optional candidate subscriptions or government-supported access. The mechanisms, prices, and tests below are **editorial proposals**, not validated features or existing benefits.
+
+### Product: a candidate-controlled hiring passport
+
+Rather than merely forwarding rejected applicants, Service C helps candidates carry *verified evidence* of completed assessments from one employer to another.
+
+- Record competencies assessed, assessment method, date, assessor, and scope. Do not turn an employer's rejection into a global negative score.
+- Let the candidate inspect, consent to, selectively disclose, and revoke access to each record.
+- Let Company D recognize relevant evidence from Company A while retaining the right to verify skills or conduct its own role-specific interview.
+- A candidate might advance in *multiple hiring pipelines*, but there is no universal "Stage 3" shared automatically between companies.
+- Keep assessments and attestations auditable, time-bounded, and subject to correction or appeal where appropriate.
+
+The objective is to reuse trustworthy evidence, **not** make it effortless to mass-apply indiscriminately.
+
+### Shift recruiting time toward mutual exploration
+
+Once repeated preliminary assessments are reduced, companies can spend more time on office or virtual tours, meetings with prospective teammates, realistic job previews, discussion of actual work, compensation, expectations, and work culture. Candidates can compare workplaces before committing. Employers may publish their own "workplace passport" of verifiable conditions and team information.
+
+### Who benefits, and why participate?
+
+| Participant | Potential benefit | Practical incentive or challenge |
+| --- | --- | --- |
+| Candidate B | Less repeated CV work, assessments, and application friction; more meaningful exploration | Core passport and referral access should be free; consent and independent choice are essential |
+| Company A (referrer) | Better rejection experience and reciprocal access to other employers' screened candidates | Award referral credits for **useful, validated introductions**, not merely referrals by volume |
+| Company D (hiring employer) | May shorten preliminary screening for qualified candidates | It must trust the assessment's scope and quality; it remains responsible for its hiring decision |
+| Service C (operator) | Runs secure verification, referrals, matching, permissions, and employer tools | Needs to demonstrate measurable time or cost savings to justify payment |
+
+A referral-credit system could offset subscriptions or unlock referrals for participating employers. Such a system should avoid rewarding spam or establishing restrictive arrangements over employees, compensation, or hiring mobility.
+
+### Proposed revenue model, in order of preference
+
+1. **Employer-paid membership (core):** subscription for evidence validation, secure candidate referrals, workflow integration, and an employer dashboard.
+2. **Optional successful-placement fees:** charge the receiving employer for eligible hires sourced through the network; test whether flat fees or subscription-only pricing better align incentives and comply with local recruiting rules.
+3. **Institutional sponsorship:** universities, career centers, or employers can purchase access to optional coaching, learning, and workplace-discovery services for their communities.
+4. **Public-sector pilot contracts:** investigate whether relevant government bodies would fund an employment-efficiency or youth-employment trial with independently measured outcomes, instead of presuming an existing applicant subsidy pays for this particular service.
+5. **Optional candidate extras:** coaching, training, mock interviews, or portfolio help, **not** payment for preferential hiring placement or basic passport functionality. Pricing and even whether charges to candidates are permissible require jurisdiction-specific review.
+
+**Illustrative pricing hypothesis, not a quotation or forecast:** ¥50,000/month for an employer membership and ¥100,000 per eligible successful referred hire. Example with 30 employers and 12 hires in one month: ¥1,500,000 in subscription revenue + ¥1,200,000 in fees = **¥2,700,000 gross monthly revenue before any costs**. This ignores the considerable burden of operations, sales, compliance, secure storage, identity/assessment verification, and onboarding.
+
+### Government subsidies: what could and could not work
+
+Potential pathways for *separate qualifying activities* in Japan include training-linked programs, eligible education/training benefit programs, employer training grants, and commissioned employment-support pilots. **No automatic public subsidy for a Second Door subscription is assumed.** Applicants' eligibility, approved providers and courses, funding windows, and local legal conditions must be checked against current official guidance. Public-sector support may be better directed to training or independently evaluated workforce programs than to an ordinary job-platform subscription.
+
+International expansion additionally requires country-specific evaluation of employment-placement licensing, candidate fees, data transfers, automated hiring, nondiscrimination, immigration/work authorization, and recognition of credentials. Evidence should be portable; hiring decisions and legal responsibilities remain local.
+
+### Initial pilot / falsifiable hypothesis
+
+Start with 5–10 opt-in employers in one related occupational cluster (for example, data analysis, data science, and data engineering). Use simple manually reviewed assessments and candidate-approved referrals. Compare with ordinary recruitment:
+
+- Fraction of referrals that become genuine employer interviews.
+- Number of duplicate assessment stages *actually* waived by receiving employers.
+- Recruiter hours and candidate time saved.
+- Quality of resulting hires and employer satisfaction.
+- Candidate autonomy, perceived fairness, privacy complaints, and whether visits/realistic job previews improve fit.
+
+**Primary risk:** employers might refuse to recognize one another's evaluations. If assessments are not trusted enough to skip stages, the proposed efficiency gains and therefore Service C's strongest business case weaken.
+
+**Provisional strategy:** employer-funded shared hiring infrastructure; free core candidate access; optional sponsored career services; public funding pursued only through eligible, independently justified programs. Validate the transferable-evidence hypothesis before building large-scale matching or AI scoring.
+
